@@ -563,7 +563,7 @@
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
 
-"spider":"clan://0627gita/custom_spider0627.jar",
+"spider":"https://szxinhui508.github.io/20220722jar/custom_spider0627.jar",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
