@@ -25,20 +25,6 @@
 {"key":"学堂4","name":"宝宝巴士","type":3,"api":"csp_Bili","searchable":0,"quickSearch": 0,"filterable":1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"},
 {"key":"学堂4","name":"小猪佩奇","type":3,"api":"csp_Bili","searchable":0,"quickSearch": 0,"filterable":1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"},
 {"key":"学堂4","name":"教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch": 0,"filterable":1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {"key":"csp_xpath_libv"        ,"name":"🦋Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/libv.json"},
 {"key":"csp_xpath_zxzj2"       ,"name":"🦋在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/zxzj2.json"},
 {"key":"csp_xpath_lezhutv"     ,"name":"🦋乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/lezhutv.json"},
