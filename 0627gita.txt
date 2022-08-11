@@ -295,6 +295,7 @@
 ]}]}],
 
 "spider":"https://szxinhui508.github.io/20220722jar/custom_spider0627.jar",
+"spider":"https://szxinhui508.github.io/20220812jar/juhuang.jar",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
