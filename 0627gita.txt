@@ -1,6 +1,6 @@
 {
 "sites": [
-{"key":"学堂4","name":"高中学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch": 0,"filterable":1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"},
+{"key":"学堂4","name":"高中学习","type":3,"api":"csp_BBB","searchable":0,"quickSearch": 0,"filterable":1,"ext":"https://szxinhui508.github.io/20220701BBB/BBB.txt"},
 {"key": "csp_DiDuan",       "name": "🐞低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_LiteApple"    ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
