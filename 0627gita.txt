@@ -1,28 +1,19 @@
 {
 "sites": [
-{"key": "学堂1","name": "儿童乐园","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/18739/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.m3u?sign=y3WBh3OjQDRmU52DOy5LNEyxogFFFi9jr-oLPlAPfXc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-{"key": "学堂2","name": "小学学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/18746/%E5%B0%8F%E5%AD%A6%E5%AD%A6%E4%B9%A0.txt?sign=lctfNYds5j7Mhro-8IrvCVC1UIBWZg0f309EP6lmBWE%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-{"key": "学堂3","name": "初中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/18747/%E5%88%9D%E4%B8%AD%E5%AD%A6%E4%B9%A0.m3u?sign=femoY5T02G_B8k3vAjLpJj_93LuwiJwz1iOiX8OqAkA%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-{"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/18748/%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B9%A0.txt?sign=VU0V11MhDvJCZ-mgLc2adN6XgEGWIcptPxktjfOyBvY%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
 {"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_DiDuan",       "name": "🐞低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
+{"key": "csp_DiDuan",       "name": "🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_LiteApple"    ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP"         ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_CZSPP"         ,"name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete"         ,"name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_GitCafe"       ,"name":"🐞小纸条📵","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,ext":"dcbc975ad0684eb5a498ecd1836272e6
+{"key":"csp_GitCafe"       ,"name":"🐞小纸条📵","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,ext":"dcbc975ad0684eb5a498ecd1836272e6
 "},  
-{"key": "FindZY"        ,"name": "找资源","type":3,"api":"csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"}, 
-{"key":"csp_AliPanSou"     ,"name":"🐞云喵搜📵","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,ext":"dcbc975ad0684eb5a498ecd1836272e6
+{"key":"csp_AliPanSou"     ,"name":"🐞云喵搜📵","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,ext":"dcbc975ad0684eb5a498ecd1836272e6
 "},
 {"key":"push_agent"        ,"name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0",ext":"dcbc975ad0684eb5a498ecd1836272e6
 "},
-{"key": "csp_BBB"        ,"name":"🅱哔哩哔哩","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key": "csp_Blixs"      ,"name":"🅱相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key": "csp_Bliyc"      ,"name":"🅱演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key": "csp_Blidw"      ,"name":"🅱动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key": "csp_Blixq"      ,"name":"🅱戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key": "csp_Bili"        ,"name":"🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1},ext":" https://szxinhui508.github.io/0906BBB/bili.txt"},
 {"key":"csp_xpath_libv"        ,"name":"🦋Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/libv.json"},
 {"key":"csp_xpath_zxzj2"       ,"name":"🦋在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/sub/xpath/zxzj2.json"},
 {"key":"csp_xpath_lezhutv"     ,"name":"🦋乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xpath/lezhutv.json"},
@@ -301,7 +292,7 @@
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
 
-"spider":"https://szxinhui508.github.io/20220627jar/custom_spider0627.jar",
+"spider": "https://szxinhui508.github.io/20220822jar/yuanhuanew.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
