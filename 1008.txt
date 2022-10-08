@@ -123,4 +123,4 @@
             "type": 3,
             "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
             "ext": "https://kebedd69.github.io/TVbox-interface/js/万能影视.js"
-        }
+        },
