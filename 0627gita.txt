@@ -1,22 +1,126 @@
 {
-"spider": "https://szxinhui508.github.io/20220822jar/yuanhuanew.jar",
-"wallpaper":"https://壁纸.神器每日推送.tk",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0Cg=="]}]}],
-"sites": [
-{"key":"csp_Cokemv"        ,"name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_DiDuan",       "name": "🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_LiteApple"    ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP"         ,"name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Auete"         ,"name":"🐞Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_GitCafe"       ,"name":"🐞小纸条📵","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,ext":"dcbc975ad0684eb5a498ecd1836272e6
-"},  
-{"key":"csp_AliPanSou"     ,"name":"🐞云喵搜📵","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,ext":"dcbc975ad0684eb5a498ecd1836272e6
-"},
-{"key":"push_agent"        ,"name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0",ext":"dcbc975ad0684eb5a498ecd1836272e6
-"},
-{"key": "csp_Bili"        ,"name":"🅱哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,ext":" https://szxinhui508.github.io/0906BBB/bili.txt"},
-
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
-}
+            "key": "酷云77(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/酷云77.js"
+        },
+        {
+            "key": "555影视(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/555影视.js"
+        },
+        {
+            "key": "追剧喵(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/追剧喵.js"
+        },
+        {
+            "key": "牛马TV(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/牛马TV.js"
+        },
+        {
+            "key": "玄天(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/玄天.js"
+        },
+        {
+            "key": "AnFuns(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/AnFuns.js"
+        },
+        {
+            "key": "大米星球(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/大米星球.js"
+        },
+        {
+            "key": "莫扎兔(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/莫扎兔.js"
+        },
+        {
+            "key": "007影视(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/007影视.js"
+        },
+        {
+            "key": "干饭影视(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/干饭影视.js"
+        },
+        {
+            "key": "番茄影视(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/番茄影视.js"
+        },
+        {
+            "key": "360影视(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/360影视.js"
+        },
+        {
+            "key": "腾讯视频(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/腾云驾雾.js"
+        },
+        {
+            "key": "芒果TV(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/百忙无果.js"
+        },
+        {
+            "key": "爱奇艺(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/奇珍异兽.js"
+        },
+        {
+            "key": "优酷(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/优酷.js"
+        },
+        {
+            "key": "搜狗(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/菜狗.js"
+            },
+        {
+            "key": "LIBVIO(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/LIBVIO.js"
+        },
+        {
+            "key": "鸭奈飞(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/鸭奈飞.js"
+        },
+        {
+            "key": "蓝光影院(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/蓝光影院.js"
+        },
+        {
+            "key": "万能影视(DR)",
+            "type": 3,
+            "api": "https://kebedd69.github.io/TVbox-interface/libs/drpy.js",
+            "ext": "https://kebedd69.github.io/TVbox-interface/js/万能影视.js"
+        },
